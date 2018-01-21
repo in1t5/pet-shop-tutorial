@@ -1,1 +1,1 @@
-pet-shop-tutorial
+Truffle ethereum based pet shop Dapp
